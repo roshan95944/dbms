@@ -1,0 +1,2 @@
+create table stu
+(emp_id int, rollno int, school varchar(55));
