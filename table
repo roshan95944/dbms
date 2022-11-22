@@ -1,2 +1,4 @@
 create table stu
 (emp_id int, rollno int, school varchar(55));
+insert into stu
+values(12, 302, 'mcc');
